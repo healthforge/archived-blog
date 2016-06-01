@@ -7388,3 +7388,6 @@ div.blog-leader {
 .blog-main-lead {
   font-weight: bold;
 }
+.blog-leader a {
+  color: white;
+}
